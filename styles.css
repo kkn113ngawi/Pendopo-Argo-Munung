@@ -310,7 +310,7 @@ body {
     height: 60vh; /* Sesuaikan tinggi parallax lebih lanjut untuk ponsel */
   }
   .parallax__container h1.title-wrapper span {
-    font-size: 29px;
+    font-size: 30px;
     text-shadow:
     1px 1px 0px #0a0a0a,
     2px 2px 0px #0a0a0a,
